@@ -8,14 +8,15 @@
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"cors": "^2.8.1"
+		"cors": "^2.8.1",
+		"dotenv": "^8.0.0"
 	},
 	"engines": {
 		"node": "4.4.5"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/kerriamber/boilerplate-project-headerparser"
 	},
 	"keywords": [
 		"node",
